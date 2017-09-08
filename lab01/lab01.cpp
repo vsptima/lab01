@@ -8,8 +8,8 @@
 int main()
 {
 	setlocale(LC_ALL, "rus");
-	printf("Wow! Iam here!");
-	printf("Hello from nohome branch!");
+	printf("Wow! Iam here!\n");
+	printf("Hello from nohome branch!\n");
 	system("pause");
     	return 0;
 }
