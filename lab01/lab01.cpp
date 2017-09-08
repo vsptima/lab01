@@ -9,7 +9,7 @@ int main()
 {
 	setlocale(LC_ALL, "rus");
 
-	// code here
+	printf("Wow! Iam here!");
 
 	system("pause");
     return 0;
