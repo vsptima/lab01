@@ -2,10 +2,16 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
 
 int main()
 {
+	setlocale(LC_ALL, "rus");
+
+	// code here
+
+	system("pause");
     return 0;
 }
 
